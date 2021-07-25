@@ -1,0 +1,2 @@
+Para criar a imagem usando o Dockerfile, basta executar o comando `docker build -t <usuario>/<img-name> .` onde usuario é seu usuário no Docker Hub e img-name é o nome que queira dar à imagem.
+Esta imagem está disponível no docker hub neste link: [willcmarques/codeeducation](https://hub.docker.com/r/willcmarques/codeeducation). 
