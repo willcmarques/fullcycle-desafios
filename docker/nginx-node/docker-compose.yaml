@@ -33,6 +33,8 @@ services:
       - "80:80"
     networks:
       - node-network
+    depends_on: 
+      - app
 
 networks: 
   node-network:
